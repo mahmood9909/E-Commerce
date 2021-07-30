@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:ecommerce/constant.dart';
 import 'package:ecommerce/screens/cart_page.dart';
 import 'package:ecommerce/service/db.dart';
-import 'package:firebase_auth/firebase_auth.dart';
+
 import 'package:flutter/material.dart';
 
 class CustomAppBar extends StatelessWidget {
